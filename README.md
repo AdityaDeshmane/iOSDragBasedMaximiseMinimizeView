@@ -20,6 +20,7 @@ Drag view up to maximise, drag down to minimize
 Works on iOS 5.0 & above versions and is compatible with ARC projects. There is no need of other frameworks/libraries
 
 Application using auotlayout constraint ( But can be easly converted to non autolayout based project, if required).
+
 ---
 ---
 
