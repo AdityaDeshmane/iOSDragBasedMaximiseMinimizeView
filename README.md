@@ -36,7 +36,7 @@ Application using auotlayout constraint ( But can be easly converted to non auto
 
 * Audio players
 * Options / Menu
-* Few changes in code can make if look like notification style view ( Reverse of current logic ) 
+* Few changes in code can make it look like notification style view ( Reverse of current logic ) 
 
 ---
 ---
