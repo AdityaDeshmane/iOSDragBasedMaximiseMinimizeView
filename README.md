@@ -6,7 +6,7 @@ Drag view up to maximise, drag down to minimize
 ![      ](\DraggToMaximizeView.gif "") 
 
 
-* Minimal code 
+* Minimal optimum code ( less than 100 lines ) 
 * Easy to modify 
 
 <em>This Demo project can be used on all iPhones, iPods & iPads running iOS 5.0 and above.</em>
@@ -17,7 +17,7 @@ Drag view up to maximise, drag down to minimize
 
 ### Requirements
 
-Works on iOS 5.0 & above versions and is compatible with ARC projects. There is no need of other frameworks/libraries
+Works on iOS 5.0 & above versions and is compatible with ARC projects. There is no need of other frameworks/libraries.
 
 Application using auotlayout constraint ( But can be easly converted to non autolayout based project, if required).
 
