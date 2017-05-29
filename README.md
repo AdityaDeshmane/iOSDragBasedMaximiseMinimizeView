@@ -3,7 +3,7 @@ Drag view up to maximise, drag down to minimize
 
 
 
-![      ](\DraggToMaximizeView.gif "") 
+![      ](/DraggToMaximizeView.gif "") 
 
 
 * Minimal optimum code ( less than 100 lines ) 
